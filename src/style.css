@@ -63,7 +63,7 @@ span {
 }
 
 .content-img {
-    background: url(/images/image-product-desktop.jpg) no-repeat;
+    background: url(./images/image-product-desktop.jpg) no-repeat;
     width: 900px;
     background-size: 350px;
     border-radius: 10px 0 0 10px;

@@ -109,6 +109,7 @@ span {
     transition: 0.5s;
 }
 
-button img {
-    padding-right: 5px;
+
+.cart-img {
+    background: url("../imgs/icon-cart.svg") 24% no-repeat;
 }

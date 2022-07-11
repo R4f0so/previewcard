@@ -10,7 +10,7 @@
     }
 
     .content-img {
-    background: url("../images/image-product-mobile.jpg") no-repeat;
+    background: url("../imgs/image-product-mobile.jpg") no-repeat;
     background-size: 400px;
     height: 280px;
     width: 400px;
@@ -24,10 +24,7 @@
     .price-container {
         margin-top: 30px;
         margin-bottom: 20px;
-    }
-
-    .previous-price {
-        margin-top: 12px;
+        align-items: center;
     }
 
     .btn {

@@ -63,7 +63,7 @@ span {
 }
 
 .content-img {
-    background: url("../images/image-product-desktop.jpg") no-repeat;
+    background: url("../imgs/image-product-desktop.jpg") no-repeat;
     width: 900px;
     background-size: 350px;
     border-radius: 10px 0 0 10px;
@@ -74,6 +74,7 @@ span {
     display: flex;
     margin-top: 30px;
     margin-bottom: 40px;
+    align-items: center;
 }
 
 .actual-price {
@@ -88,7 +89,7 @@ span {
     color: hsl(228, 12%, 48%);
     padding-left: 30px;
     text-decoration: line-through;
-    margin-top: 10px;
+    
 }
 
 .btn {

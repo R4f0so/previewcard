@@ -47,6 +47,7 @@ span {
 
 
 .preview-card {
+    overflow: hidden;
     background-color: hsl(0, 0%, 100%);
     height: 500px;
     max-width: 700px;
@@ -65,8 +66,7 @@ span {
 .content-img {
     background: url("../imgs/image-product-desktop.jpg") no-repeat;
     width: 900px;
-    background-size: 350px;
-    border-radius: 10px 0 0 10px;
+    background-size: cover;
 }
 
 .price-container {

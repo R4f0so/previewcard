@@ -11,10 +11,8 @@
 
     .content-img {
     background: url("../imgs/image-product-mobile.jpg") no-repeat;
-    background-size: 400px;
+    background-size: cover;
     height: 280px;
-    width: 400px;
-    border-radius: 10px 10px 0 0;
     }
 
     .content-tiny-title {

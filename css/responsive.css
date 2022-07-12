@@ -1,38 +1,36 @@
-@media only screen and (max-width:768px) {
+@media only screen and (max-width: 768px) {
   /* For Mobile */
-    main {
+  main {
     flex-wrap: wrap;
-    }
-  
-    .preview-card {
-    height: 700px;
-    max-width: 400px; 
-    }
+  }
 
-    .content-img {
+  .preview-card {
+    height: 700px;
+    max-width: 400px;
+  }
+
+  .content-img {
     background: url("../imgs/image-product-mobile.jpg") no-repeat;
     background-size: cover;
     height: 280px;
-    }
+  }
 
-    .content-tiny-title {
-        margin-top: -20px;
-    }
+  .content-tiny-title {
+    margin-top: -20px;
+  }
 
-    .price-container {
-        margin-top: 30px;
-        margin-bottom: 20px;
-        align-items: center;
-    }
+  .price-container {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+  }
 
-    .btn {
-        width: 320px;
-        height: 50px;
-    }
+  .btn {
+    width: 320px;
+    height: 50px;
+  }
 
-    .cart-img {
-        background: url("../imgs/icon-cart.svg") 30% no-repeat;
-    }
-    
-    
+  .cart-img {
+    background: url("../imgs/icon-cart.svg") 30% no-repeat;
+  }
 }
